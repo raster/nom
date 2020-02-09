@@ -6,3 +6,6 @@ _pdf
 .idea
 vendor/
 .bundle/
+_mdwriter.cson
+Gemfile.lock
+
