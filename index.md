@@ -21,6 +21,7 @@ summary: This is a start.
 * Meeting Location/Meetups (for other groups)
 * Festivals (non show and tell)
 
+---
 
 ## What makes a “Maker Event”?
 
@@ -38,6 +39,8 @@ Social events are not specifically about making things, but serve as a way to bu
 * Maker Conference (Speakers/Presentations/Ignite/BarCamp)
     * Seeing a Show / Talk (Mythbusters Live, TEDx Talk, etc.)
 
+---
+
 ### Makers in the Community
 
 Bringing the passion for making out into the world and sharing it with others is an important aspect of the Maker Community. This might include making or sharing at an event that someone else is organizing and hosting but you are just taking part in.
@@ -51,6 +54,8 @@ Bringing the passion for making out into the world and sharing it with others is
 * Maker Meetups (including meetups around Faires like Bring-a-Hack)
 * Community Build (Magic Wheelchair/Art/Shared Project)
 * All of these have a supply list or physical things?
+
+---
 
 ### Hosting a Maker Event
 
@@ -74,6 +79,7 @@ A Maker Event would include hands-on making or sharing of things people have mad
 * Recovery/Support location (think after hurricanes)
 * Makerspace open house / open night / open make ?
 
+---
 
 ## General Event Topics
 
