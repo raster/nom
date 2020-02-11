@@ -1,6 +1,6 @@
 ---
 title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
+keywords: sample homepage petey
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
