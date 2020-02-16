@@ -4,7 +4,7 @@ keywords: radios
 tags: [communication]
 sidebar: mydoc_sidebar
 permalink: radios.html
-summary: This is a start...
+summary: This is big hierarchical page of radio stuff...
 ---
 
 Radios are a great way for your team to stay in contact during an event. If your venue is more than a single room where your crew can all see each other, radios will be helpful when you need a information quickly, need to locate someone, or need help.

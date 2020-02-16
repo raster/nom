@@ -107,6 +107,7 @@ A Maker Event would include hands-on making or sharing of things people have mad
 
 [Radios](/radios.html)
 
+[Other Event Guides](/other-event-guides.html)
 
 
 ---
