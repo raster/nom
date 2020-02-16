@@ -1,6 +1,6 @@
 ---
 title: "Radios"
-keywords: 
+keywords: radios
 tags: [communication]
 sidebar: mydoc_sidebar
 permalink: radios.html
