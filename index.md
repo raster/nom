@@ -110,9 +110,6 @@ A Maker Event would include hands-on making or sharing of things people have mad
 [Other Event Guides](/other-event-guides.html)
 
 
-Something has gone wrong...
-
-
 ---
 
 
