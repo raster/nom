@@ -25,7 +25,7 @@ Donation to a non-profit? Loan? Sponsorship?
 
 You may want to buy a pack of radios to provide for your crew.
 
-#### Borrow
+### Borrow
 
 Sometimes you don’t want to rent or buy radios, so there’s always borrowing. Depending on your circle of friends and your Maker Community, you might be surprised how many people have a few radios. We’ve seen events where a "call for radios" went out and the producers ended up with over a dozen programmable radios on loan for the event, and a volunteer who was willing to program them all to work together. If you only do your event once a year, or aren’t even sure if you’ll make it to the first annual, borrowing radios might make sense.
 
