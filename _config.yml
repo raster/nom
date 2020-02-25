@@ -116,7 +116,7 @@ description: "Documentation theme for documenting things."
 
 
 # attempt to fix the baseurl issue - pete 2020-02-24 20:55
-# baseurl: /
+baseurl: /nom/
 
 
 github: [metadata]
