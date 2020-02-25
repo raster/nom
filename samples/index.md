@@ -4,12 +4,12 @@ keywords: sample
 tags: [sample]
 sidebar: mydoc_sidebar
 permalink: /samples/index.html
-summary: Sample home?
+summary: Sample directory test...
 ---
 
 # Sample Home
 
-__This is sample home... Sample Home__
+Testing a directory structure with files in it...
 
 
 ## Simple Markup Links 1 (Works)
@@ -32,7 +32,7 @@ __This is sample home... Sample Home__
 * [Sample Home]({{ '/samples/index.html' | relative_url }})
 * [Samples Page A]({{ '/samples/page-a.html' | relative_url }})
 
-_breaks in Atom Markdown Preview_
+_breaks in Atom Markdown Preview and GitHub repository_
 
 ---
 
@@ -67,7 +67,7 @@ In _config.yaml set **baseurl** to be blank
 
 ![]({{ 'images/nom.jpg' | relative_url }})
 
-_breaks in Atom Markdown Preview_
+_breaks in Atom Markdown Preview and GitHub repository_
 
 
 
