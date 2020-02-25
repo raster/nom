@@ -7,12 +7,17 @@ permalink: samples/index.html
 summary: Sample home?
 ---
 
+# Sample Home
+
 This is sample home...
 
 Sample
 
 Home
 
+# [sample/](Sample Home)
+# [sample/page-a.html](Sample Page A)
+# [sample/page-b.html](Sample Page B)
 
 ---
 
