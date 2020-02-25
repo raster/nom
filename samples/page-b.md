@@ -15,9 +15,9 @@ Sample
 
 Page B
 
-# [sample/](Sample Home)
-# [sample/page-a.html](Sample Page A)
-# [sample/page-b.html](Sample Page B)
+# [Sample Home](sample/)
+# [Sample Page A](sample/page-a.html)
+# [Sample Page B](sample/page-b.html)
 
 ---
 
