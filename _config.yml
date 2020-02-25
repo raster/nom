@@ -6,10 +6,10 @@ output: web
 topnav_title: MEP DTG
 # this appears on the top navigation bar next to the home button
 
-site_title: MEP Documentation Testing Grounds
+site_title: MEP Doc Testing Grounds
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: NOM
+company_name: NOMTest
 # this appears in the footer
 
 # github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -116,7 +116,8 @@ description: "Documentation theme for documenting things."
 
 
 # attempt to fix the baseurl issue - pete 2020-02-24 20:55
-baseurl: /nom
+# baseurl: /nom
+baseurl: 
 
 
 github: [metadata]
