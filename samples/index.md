@@ -65,5 +65,17 @@ In _config.yaml set **baseurl** to be blank
 
 ---
 
+
+![](../images/nom.jpg)
+
+![]({{ 'images/nom.jpg' | relative_url }})
+
+
+
+
+
+
+---
+
 {% include links.html %}
 
