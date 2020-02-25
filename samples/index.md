@@ -22,8 +22,8 @@ Home
 ~~ok~~
 
 # <a href="{{ 'index.html' | relative_url }}">Sample Home</a>
-# <a href="{{ 'index.html' | relative_url }}">Sample Page A</a>
-# <a href="{{ 'index.html' | relative_url }}">Sample Page B</a>
+# <a href="{{ 'page-a.html' | relative_url }}">Sample Page A</a>
+# <a href="{{ 'page-b.html' | relative_url }}">Sample Page B</a>
 
 
 ---
