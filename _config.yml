@@ -114,4 +114,9 @@ description: "Documentation theme for documenting things."
 # baseurl: /documentation-theme-jekyll
 
 
+
+# attempt to fix the baseurl issue - pete 2020-02-24 20:55
+baseurl: /
+
+
 github: [metadata]
