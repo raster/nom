@@ -3,7 +3,7 @@ title: Sample Page B
 keywords: sample
 tags: [sample]
 sidebar: mydoc_sidebar
-permalink: samples/page-b.html
+permalink: /samples/page-b.html
 summary: Sample Page B
 ---
 
