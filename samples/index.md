@@ -3,7 +3,7 @@ title: Sample Home
 keywords: sample
 tags: [sample]
 sidebar: mydoc_sidebar
-permalink: samples/index.html
+permalink: /samples/index.html
 summary: Sample home?
 ---
 
