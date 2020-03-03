@@ -1,13 +1,13 @@
 ---
-title: Sample Page B
+title: Sample Page C
 keywords: sample
 tags: [sample]
 sidebar: mydoc_sidebar
-permalink: /samples/page-b.html
-summary: Sample Page B
+permalink: /samples/page-c
+summary: Sample Page C
 ---
 
-# Page B
+# Page C
 
 
 ## Simple Markup Links
@@ -17,6 +17,7 @@ summary: Sample Page B
 * [Sample Page A](page-a.html)
 * [Sample Page B](page-b.html)
 * [Sample Page C](page-c)
+
 
 ## Complex HTML Links
 

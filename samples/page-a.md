@@ -16,7 +16,7 @@ summary: Sample Page A
 * [Sample Home](index.html)
 * [Sample Page A](page-a.html)
 * [Sample Page B](page-b.html)
-
+* [Sample Page C](page-c)
 
 ## Complex HTML Links
 
@@ -24,6 +24,7 @@ summary: Sample Page A
 * <a href="{{ 'samples/index.html' | relative_url }}">Sample Home</a>
 * <a href="{{ 'samples/page-a.html' | relative_url }}">Sample Page A</a>
 * <a href="{{ 'samples/page-b.html' | relative_url }}">Sample Page B</a>
+* <a href="{{ 'samples/page-c' | relative_url }}">Sample Page C</a>
 
 
 ---
