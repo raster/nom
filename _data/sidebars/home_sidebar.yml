@@ -8,9 +8,7 @@ entries:
   - title: Products
     output: web
     folderitems:
-    - title: Radios
-      url: /radios.html
-      output: web
+      
     - title: Other Event Guides
       url: /other-event-guides.html
       output: web

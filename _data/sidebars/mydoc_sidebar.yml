@@ -27,7 +27,11 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
-
+      
+    - title: Samples
+      url: /samples/index.html
+      output: web, pdf
+      
     - title: Other Event Guides
       url: /other-event-guides.html
       output: web, pdf
